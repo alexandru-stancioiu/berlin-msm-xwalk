@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/berlin-msm-xwalk/:/",
+    "/content/berlin-msm-xwalk/configuration:/.helix/config.json"
   ]
 }
